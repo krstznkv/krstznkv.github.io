@@ -1,0 +1,22 @@
+body{
+   margin: 0;
+    padding: 0; 
+}
+.toy{
+    width: 250px;
+}
+.shop{
+    width: 40px;
+    height: 40px;
+}
+#example_1{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(../img/water.jpg);
+    background-size: cover;
+}
+#example_2{
+ height: 100vh;
+    background-image: url(../img/positive.png);
+}
